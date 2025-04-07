@@ -1,5 +1,7 @@
 # Falcon 9 Landing Success Prediction 🚀
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This repository contains all the work completed as part of the **IBM Data Science Professional Certificate - Capstone Project**. The goal of this project is to predict whether the first stage of the SpaceX Falcon 9 rocket will successfully land, enabling cost reduction through reusable rocket technology.
 
 ---
@@ -38,7 +40,7 @@ SpaceX has revolutionized the space industry by reducing launch costs through re
 │ ├── dataset_part_3.csv # Final dataset for machine learning
 ├── presentation/
 │ ├── Falcon9_Landing_Success_Presentation.pdf # Final presentation in PDF format
-├── README.md # Project documentation (this file)
+├── README.md # This file
 └── requirements.txt # Python dependencies
 
 text
