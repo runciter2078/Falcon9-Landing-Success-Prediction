@@ -49,21 +49,15 @@ SpaceX has revolutionized the space industry by reducing launch costs through re
 ## Installation ⚙️
 
 1. Clone this repository:
-git clone https://github.com/runciter2078/Falcon9-Landing-Success-Prediction.git
-cd Falcon9-Landing-Success-Prediction
-
-text
+   ```bash
+   git clone https://github.com/runciter2078/Falcon9-Landing-Success-Prediction.git
+   cd Falcon9-Landing-Success-Prediction
+   ```
 
 2. Install required Python libraries:
-pip install -r requirements.txt
-
-text
-
-3. Run Jupyter Notebooks:
-jupyter notebook
-
-text
-
+   ```bash
+   pip install -r requirements.txt
+   ```
 ---
 
 ## Notebooks Overview 📓
