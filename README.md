@@ -25,7 +25,7 @@ SpaceX has revolutionized the space industry by reducing launch costs through re
 ---
 
 ## Repository Structure 📂
-
+''' bash
 ├── notebooks/
 │ ├── 01-jupyter-labs-spacex-data-collection-api.ipynb # SpaceX API data collection
 │ ├── 02-jupyter-labs-webscraping.ipynb # Web scraping from Wikipedia
@@ -42,7 +42,7 @@ SpaceX has revolutionized the space industry by reducing launch costs through re
 │ ├── Falcon9_Landing_Success_Presentation.pdf # Final presentation in PDF format
 ├── README.md # This file
 └── requirements.txt # Python dependencies
-
+'''
 text
 
 ---
