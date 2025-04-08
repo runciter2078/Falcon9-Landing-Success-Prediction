@@ -34,14 +34,14 @@ SpaceX has revolutionized the space industry by reducing launch costs through re
 │ ├── 05-jupyter-labs-eda-dataviz-v2.ipynb # Data visualization with Python
 │ ├── 06-lab_jupyter_launch_site_location.ipynb # Interactive Folium maps
 │ ├── 07-SpaceX_Machine Learning Prediction_Part_5.ipynb # Machine learning models
+│ ├── dash_script.py # Dashboard python script
 ├── datasets/
 │ ├── dataset_part_1.csv # Cleaned dataset (API + web scraping)
 │ ├── dataset_part_2.csv # Dataset after EDA and feature engineering
 │ ├── dataset_part_3.csv # Final dataset for machine learning
 ├── presentation/
 │ ├── Falcon9_Landing_Success_Presentation.pdf # Final presentation in PDF format
-├── README.md # This file
-└── requirements.txt # Python dependencies
+└── README.md # This file
 ```
 
 ---
